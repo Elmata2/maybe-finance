@@ -1,3 +1,6 @@
+# Specify the app name
+name: maybe-finance
+
 setup:
   addons:
     - plan: heroku-postgresql:essential-0
